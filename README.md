@@ -33,7 +33,7 @@ The Recipe page challenge tasks participants with building a user interface for 
 	
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-using-tailwindcss-hXFqX60aRY)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-main-using-tailwindcss-hSB63DucCt)
 - Live Site URL: [Live Demo](https://recipe-page-main-tailwindcss.vercel.app/	)
 
 ## My process
